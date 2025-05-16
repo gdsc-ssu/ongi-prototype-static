@@ -1,1 +1,1 @@
-# ongi-prototpe-static
+# ongi-prototype-static
